@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Protocol Buffer Simple</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_phone">Phone</string>
+    <string name="txt_cancel">Cancel</string>
+    <string name="txt_submit">Submit</string>
+    <string name="txt_details">Details</string>
+    <string name="txt_save_file">Save File</string>
+    <string name="txt_read_file">Read file</string>
+    <string name="txt_edit_data">Edit data</string>
+</resources>
