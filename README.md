@@ -176,7 +176,9 @@ Trong dự án, sẽ có lúc ta cần phải mở rộng PB để đáp ứng t
 - API cung cấp: getWeightMap, getWeightOrDefault, containsWeight, getWeightCount, putWeight, putAllWeight, removeWeight, clearWeight, ... .
 
 ### Any
-...
+
+- Any cung cấp phương thức pack/unpack.
+- Trong file `.proto` cần import `google/protobuf/any.proto`.
 
 ### Enumerations
 - Định nghĩa các `enum`.
